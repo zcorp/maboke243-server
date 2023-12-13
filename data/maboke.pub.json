@@ -1,0 +1,139 @@
+[{
+  "_id": {
+    "$oid": "655614caeeb47d65cec9064f"
+  },
+  "url": "https://www.youtube.com/watch?v=dOT3NQabJ5k&ab_channel=Maboke243",
+  "img": "dOT3NQabJ5k",
+  "page": "home",
+  "title": "PIERROT MOPASHO",
+  "sequences": [
+    {
+      "_id": {
+        "$oid": "6556124aeeb47d65cec9064a"
+      },
+      "title": "PIERROT MOPASHO",
+      "img": "eZYloTckAC0",
+      "url": "/watch?v=eZYloTckAC0",
+      "start": 210.5,
+      "end": 3203,
+      "pubStart": 0,
+      "pubEnd": 651.021,
+      "origin": "serie",
+      "parentId": "eZYloTckAC0",
+      "category": "Default",
+      "seasonIndex": 1
+    }
+  ],
+  "_class": "com.zcore.mabokeserver.pub.Pub",
+  "isUse": true
+},
+{
+  "_id": {
+    "$oid": "655616e1eeb47d65cec90650"
+  },
+  "url": "https://www.youtube.com/watch?v=4MjrcN9Lgj4&ab_channel=Maboke243",
+  "img": "4MjrcN9Lgj4",
+  "page": "serie",
+  "title": "MA BELLE MÈRE",
+  "sequences": [
+    {
+      "_id": {
+        "$oid": "655612d9eeb47d65cec9064b"
+      },
+      "title": "MA BELLE MÈRE",
+      "img": "b6zB99xkQP4",
+      "url": "/watch?v=b6zB99xkQP4",
+      "start": 247.5,
+      "end": 3433,
+      "pubStart": 0,
+      "pubEnd": 644.681,
+      "origin": "serie",
+      "seasonIndex": 1,
+      "parentId": "b6zB99xkQP4",
+      "category": "Family relationship"
+    }
+  ],
+  "_class": "com.zcore.mabokeserver.pub.Pub",
+  "isUse": true
+},
+{
+  "_id": {
+    "$oid": "655616f9eeb47d65cec90651"
+  },
+  "url": "https://www.youtube.com/watch?v=TYMnD2wePCM&ab_channel=Maboke243",
+  "img": "TYMnD2wePCM",
+  "page": "movie",
+  "title": "No Flawless Marriage",
+  "sequences": [
+    {
+      "_id": {
+        "$oid": "65561375eeb47d65cec9064c"
+      },
+      "title": "No Flawless Marriage",
+      "img": "W-3_NFZ59Mg",
+      "url": "W-3_NFZ59Mg",
+      "start": 28,
+      "end": 99.499,
+      "pubStart": 0,
+      "pubEnd": 36.481,
+      "category": "Romance",
+      "origin": "movie"
+    }
+  ],
+  "_class": "com.zcore.mabokeserver.pub.Pub",
+  "isUse": true
+},
+{
+  "_id": {
+    "$oid": "6556170eeeb47d65cec90652"
+  },
+  "url": "https://www.youtube.com/watch?v=1KRCId9lpyE&ab_channel=Maboke243",
+  "img": "1KRCId9lpyE",
+  "page": "kid",
+  "title": "Totally Spies",
+  "sequences": [
+    {
+      "_id": {
+        "$oid": "655613cdeeb47d65cec9064d"
+      },
+      "title": "Totally Spies",
+      "img": "b81-W0ZYnWA",
+      "url": "b81-W0ZYnWA",
+      "start": 130.5,
+      "end": 1214,
+      "pubStart": 0,
+      "pubEnd": 110.361,
+      "category": "TOTALLY SPIES",
+      "origin": "kid"
+    }
+  ],
+  "_class": "com.zcore.mabokeserver.pub.Pub",
+  "isUse": true
+},
+{
+  "_id": {
+    "$oid": "65561737eeb47d65cec90653"
+  },
+  "url": "https://www.youtube.com/watch?v=WRZans-X8aI&ab_channel=Maboke243",
+  "img": "WRZans-X8aI",
+  "page": "show",
+  "title": "VERITE EN FACE",
+  "sequences": [
+    {
+      "_id": {
+        "$oid": "65561439eeb47d65cec9064e"
+      },
+      "title": "VERITE EN FACE",
+      "img": "pD-TChoK5h8",
+      "url": "pD-TChoK5h8",
+      "start": 1372.5,
+      "end": 4827,
+      "pubStart": 0,
+      "pubEnd": 188.781,
+      "category": "VERITE EN FACE",
+      "origin": "show"
+    }
+  ],
+  "_class": "com.zcore.mabokeserver.pub.Pub",
+  "isUse": true
+}]
